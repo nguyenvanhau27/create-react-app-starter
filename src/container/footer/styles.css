@@ -1,0 +1,30 @@
+.main-footer {
+    /* background: #2e3091 91.19%;
+    color: white;
+    position: absolute;
+    width: 100%;
+    font-size: 11pt;
+    
+    right: 0;
+    left: 0;
+    margin-top: 100px;
+    height: 100px;
+    align-items: center; */
+    padding-top: 50px;
+ 
+
+}
+.jumbotron{
+    background: #2e3091 91.19%;
+    color: white;
+
+}
+.container{
+    padding: 50px;
+}
+@media screen and (min-width: 768px) {
+    .div-powered{
+        padding-left:300px ;
+    }
+      
+  }
